@@ -1,0 +1,43 @@
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\documents and settings\lenovo\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+H:\c#\窗口\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\c#\窗口\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\HONGKE\Desktop\课程\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
