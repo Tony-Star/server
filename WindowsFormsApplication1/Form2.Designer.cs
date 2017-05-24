@@ -49,16 +49,18 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(45, 67);
+            this.linkLabel1.Location = new System.Drawing.Point(60, 84);
+            this.linkLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(0, 12);
+            this.linkLabel1.Size = new System.Drawing.Size(0, 15);
             this.linkLabel1.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(853, 194);
+            this.button1.Location = new System.Drawing.Point(1137, 242);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(90, 41);
+            this.button1.Size = new System.Drawing.Size(120, 51);
             this.button1.TabIndex = 1;
             this.button1.Text = "退出";
             this.button1.UseVisualStyleBackColor = true;
@@ -66,9 +68,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(47, 48);
+            this.button2.Location = new System.Drawing.Point(63, 60);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(100, 42);
+            this.button2.Size = new System.Drawing.Size(133, 52);
             this.button2.TabIndex = 2;
             this.button2.Text = "查看数据";
             this.button2.UseVisualStyleBackColor = true;
@@ -79,17 +82,19 @@
             this.dataGridView1.BackgroundColor = System.Drawing.Color.WhiteSmoke;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.GridColor = System.Drawing.SystemColors.Control;
-            this.dataGridView1.Location = new System.Drawing.Point(42, 110);
+            this.dataGridView1.Location = new System.Drawing.Point(56, 138);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 23;
-            this.dataGridView1.Size = new System.Drawing.Size(761, 353);
+            this.dataGridView1.Size = new System.Drawing.Size(1015, 441);
             this.dataGridView1.TabIndex = 3;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(209, 49);
+            this.button3.Location = new System.Drawing.Point(279, 61);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(107, 40);
+            this.button3.Size = new System.Drawing.Size(143, 50);
             this.button3.TabIndex = 4;
             this.button3.Text = "添加病例";
             this.button3.UseVisualStyleBackColor = true;
@@ -97,9 +102,10 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(371, 49);
+            this.button4.Location = new System.Drawing.Point(495, 61);
+            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(111, 41);
+            this.button4.Size = new System.Drawing.Size(148, 51);
             this.button4.TabIndex = 5;
             this.button4.Text = "删除病历";
             this.button4.UseVisualStyleBackColor = true;
@@ -107,9 +113,10 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(551, 49);
+            this.button5.Location = new System.Drawing.Point(735, 61);
+            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(107, 40);
+            this.button5.Size = new System.Drawing.Size(143, 50);
             this.button5.TabIndex = 6;
             this.button5.Text = "查询记录";
             this.button5.UseVisualStyleBackColor = true;
@@ -117,9 +124,10 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(853, 48);
+            this.button6.Location = new System.Drawing.Point(1137, 60);
+            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(106, 41);
+            this.button6.Size = new System.Drawing.Size(141, 51);
             this.button6.TabIndex = 7;
             this.button6.Text = "医护交流系统";
             this.button6.UseVisualStyleBackColor = true;
@@ -127,9 +135,10 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(710, 49);
+            this.button7.Location = new System.Drawing.Point(947, 61);
+            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(93, 40);
+            this.button7.Size = new System.Drawing.Size(124, 50);
             this.button7.TabIndex = 8;
             this.button7.Text = "药房";
             this.button7.UseVisualStyleBackColor = true;
@@ -137,9 +146,10 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(853, 119);
+            this.button8.Location = new System.Drawing.Point(1137, 149);
+            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(90, 41);
+            this.button8.Size = new System.Drawing.Size(120, 51);
             this.button8.TabIndex = 9;
             this.button8.Text = "管理";
             this.button8.UseVisualStyleBackColor = true;
@@ -151,9 +161,10 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.panel1.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.panel1.Location = new System.Drawing.Point(42, 5);
+            this.panel1.Location = new System.Drawing.Point(56, 6);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(917, 37);
+            this.panel1.Size = new System.Drawing.Size(1223, 46);
             this.panel1.TabIndex = 10;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -162,9 +173,10 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("宋体", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(3, 6);
+            this.label1.Location = new System.Drawing.Point(4, 8);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(260, 24);
+            this.label1.Size = new System.Drawing.Size(323, 30);
             this.label1.TabIndex = 0;
             this.label1.Text = "欢迎来到医院管理系统";
             // 
@@ -174,11 +186,12 @@
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources._6288534540;
-            this.ClientSize = new System.Drawing.Size(1046, 493);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1395, 616);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
@@ -190,6 +203,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.linkLabel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form2";
             this.Text = "医院病历管理系统";
             this.Load += new System.EventHandler(this.Form2_Load);

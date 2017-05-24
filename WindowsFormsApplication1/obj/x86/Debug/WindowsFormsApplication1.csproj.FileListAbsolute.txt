@@ -41,3 +41,6 @@ C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\Win
 C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
 C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
 C:\Users\HONGKE\Desktop\课程\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Administrator\Desktop\server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\server\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form6));
             this.label1 = new System.Windows.Forms.Label();
             this.serverport = new System.Windows.Forms.TextBox();
             this.showinfo = new System.Windows.Forms.RichTextBox();
@@ -44,33 +45,38 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(303, 22);
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Location = new System.Drawing.Point(404, 28);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(53, 12);
+            this.label1.Size = new System.Drawing.Size(67, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "端口号：";
             // 
             // serverport
             // 
-            this.serverport.Location = new System.Drawing.Point(359, 17);
+            this.serverport.Location = new System.Drawing.Point(479, 21);
+            this.serverport.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.serverport.Name = "serverport";
-            this.serverport.Size = new System.Drawing.Size(65, 21);
+            this.serverport.Size = new System.Drawing.Size(85, 25);
             this.serverport.TabIndex = 1;
             this.serverport.Text = "888";
             // 
             // showinfo
             // 
-            this.showinfo.Location = new System.Drawing.Point(20, 58);
+            this.showinfo.Location = new System.Drawing.Point(27, 72);
+            this.showinfo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.showinfo.Name = "showinfo";
-            this.showinfo.Size = new System.Drawing.Size(406, 254);
+            this.showinfo.Size = new System.Drawing.Size(540, 316);
             this.showinfo.TabIndex = 2;
             this.showinfo.Text = "";
             // 
             // startService
             // 
-            this.startService.Location = new System.Drawing.Point(29, 14);
+            this.startService.Location = new System.Drawing.Point(39, 18);
+            this.startService.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.startService.Name = "startService";
-            this.startService.Size = new System.Drawing.Size(99, 23);
+            this.startService.Size = new System.Drawing.Size(132, 29);
             this.startService.TabIndex = 3;
             this.startService.Text = "开始服务";
             this.startService.UseVisualStyleBackColor = true;
@@ -80,23 +86,25 @@
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.statuBar});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 442);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 555);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(630, 22);
+            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 19, 0);
+            this.statusStrip1.Size = new System.Drawing.Size(840, 25);
             this.statusStrip1.TabIndex = 4;
             this.statusStrip1.Text = "statusStrip1";
             // 
             // statuBar
             // 
             this.statuBar.Name = "statuBar";
-            this.statuBar.Size = new System.Drawing.Size(65, 17);
+            this.statuBar.Size = new System.Drawing.Size(84, 20);
             this.statuBar.Text = "未启动服务";
             // 
             // send
             // 
-            this.send.Location = new System.Drawing.Point(240, 365);
+            this.send.Location = new System.Drawing.Point(320, 456);
+            this.send.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.send.Name = "send";
-            this.send.Size = new System.Drawing.Size(87, 25);
+            this.send.Size = new System.Drawing.Size(116, 31);
             this.send.TabIndex = 5;
             this.send.Text = "发送广播消息";
             this.send.UseVisualStyleBackColor = true;
@@ -104,34 +112,40 @@
             // 
             // sendmsg
             // 
-            this.sendmsg.Location = new System.Drawing.Point(20, 368);
+            this.sendmsg.Location = new System.Drawing.Point(27, 460);
+            this.sendmsg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.sendmsg.Name = "sendmsg";
-            this.sendmsg.Size = new System.Drawing.Size(175, 21);
+            this.sendmsg.Size = new System.Drawing.Size(232, 25);
             this.sendmsg.TabIndex = 6;
             // 
             // userList
             // 
             this.userList.FormattingEnabled = true;
-            this.userList.ItemHeight = 12;
-            this.userList.Location = new System.Drawing.Point(476, 59);
+            this.userList.ItemHeight = 15;
+            this.userList.Location = new System.Drawing.Point(635, 74);
+            this.userList.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.userList.Name = "userList";
-            this.userList.Size = new System.Drawing.Size(123, 244);
+            this.userList.Size = new System.Drawing.Size(163, 304);
             this.userList.TabIndex = 7;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(477, 33);
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Location = new System.Drawing.Point(636, 41);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 12);
+            this.label2.Size = new System.Drawing.Size(67, 15);
             this.label2.TabIndex = 8;
             this.label2.Text = "用户列表";
             // 
-            // Form1
+            // Form6
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(630, 464);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(840, 580);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.userList);
             this.Controls.Add(this.sendmsg);
@@ -141,7 +155,8 @@
             this.Controls.Add(this.showinfo);
             this.Controls.Add(this.serverport);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "Form6";
             this.Text = "服务器";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.statusStrip1.ResumeLayout(false);
